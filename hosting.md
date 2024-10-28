@@ -3,6 +3,8 @@
 ### Note: For Devs Only... 
 Firebase calls must be done in cmd or git bash...(Aka linux terminals)
 
+For Ubunti/Linux: You need to install [firebase](https://snapcraft.io/install/firebase/ubuntu) for Ubuntu 
+
 ## 1st Time Users:
 Login into firebase using:
 
